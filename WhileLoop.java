@@ -6,10 +6,10 @@ public class WhileLoop {
 
     {
         int i=1;
-        while (i<5)
+        while (i<5) //Loop Condition
         {
             System.out.println("Hello");
-            i++;
+            i++; //Increment
         }
     }
 }
