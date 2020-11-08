@@ -6,10 +6,10 @@ public class WhileLoop {
 
     {
         int i=1;
-        while (i<5) //Loop Condition
+        while (i<=10)
         {
-            System.out.println("Hello");
-            i++; //Increment
+            System.out.println("2 * " + i + " = " + 2*i);
+            i++;
         }
     }
 }
